@@ -1,0 +1,1 @@
+Copy the google and sony fonts to /system/fonts to make a flashable zip
