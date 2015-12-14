@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    NOTE: This file has been modified by Sony Mobile Communications Inc.
-    Modifications are Copyright (C) 2014 Sony Mobile Communications Inc.,
-    and licensed under the license of the file.
-
     NOTE: this file is the legacy format, for compatibility with apps. The new,
     more flexible format is fonts.xml. Please keep the two in sync until the legacy
     format can be fully removed.
@@ -185,6 +181,18 @@
     </family>
     <family>
         <fileset>
+            <file variant="elegant">NotoSansOriya-Regular.ttf</file>
+            <file variant="elegant">NotoSansOriya-Bold.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
+            <file variant="compact">NotoSansOriyaUI-Regular.ttf</file>
+            <file variant="compact">NotoSansOriyaUI-Bold.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
             <file>NotoSansSinhala-Regular.ttf</file>
             <file>NotoSansSinhala-Bold.ttf</file>
         </fileset>
@@ -242,6 +250,11 @@
             <file>NotoSansBalinese-Regular.ttf</file>
         </fileset>
     </family>
+    <family>
+        <fileset>
+            <file>NotoSansBamum-Regular.ttf</file>
+        </fileset>
+    </family>	
     <family>
         <fileset>
             <file>NotoSansBatak-Regular.ttf</file>
@@ -304,7 +317,27 @@
     </family>
     <family>
         <fileset>
+            <file>NotoSansLisu-Regular.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
+            <file>NotoSansMandaic-Regular.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
             <file>NotoSansMeeteiMayek-Regular.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
+            <file>NotoSansNewTaiLue-Regular.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
+            <file>NotoSansNKo-Regular.ttf</file>
         </fileset>
     </family>
     <family>
@@ -334,6 +367,11 @@
     </family>
     <family>
         <fileset>
+            <file>NotoSansSyriacEstrangela-Regular.ttf</file>
+        </fileset>
+    </family
+    <family>
+        <fileset>
             <file>NotoSansTagbanwa-Regular.ttf</file>
         </fileset>
     </family>
@@ -349,7 +387,17 @@
     </family>
     <family>
         <fileset>
+            <file>NotoSansTibetan-Regular.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
             <file>NotoSansTifinagh-Regular.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
+            <file>NotoSansVai-Regular.ttf</file>
         </fileset>
     </family>
     <family>
@@ -359,17 +407,17 @@
     </family>
     <family>
         <fileset>
-            <file>Lohit-Odia.ttf</file>
+            <file>NotoSansSymbols-Regular-Subsetted.ttf</file>
         </fileset>
     </family>
     <family>
         <fileset>
-            <file lang="zh-Hans">NotoSansHans-Regular.otf</file>
+            <file lang="zh-Hans">NotoSansSC-Regular.otf</file>
         </fileset>
     </family>
     <family>
         <fileset>
-            <file lang="zh-Hant">NotoSansHant-Regular.otf</file>
+            <file lang="zh-Hant">NotoSansTC-Regular.otf</file>
         </fileset>
     </family>
     <family>
@@ -385,11 +433,6 @@
     <family>
         <fileset>
             <file>NanumGothic.ttf</file>
-        </fileset>
-    </family>
-    <family>
-        <fileset>
-            <file>NotoSansSymbols-Regular-Subsetted.ttf</file>
         </fileset>
     </family>
     <family>
@@ -413,12 +456,17 @@
         </fileset>
     </family>
     <!--
-        Noto Sans Tai Le is intentionally kept last, to make sure it doesn't override
+        Tai Le and Mongolian are intentionally kept last, to make sure they don't override
         the East Asian punctuation for Chinese.
     -->
     <family>
         <fileset>
             <file>NotoSansTaiLe-Regular.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
+            <file>NotoSansMongolian-Regular.ttf</file>
         </fileset>
     </family>
 </familyset>
