@@ -39,14 +39,14 @@
 <familyset>
     <family>
         <fileset>
-            <file variant="elegant">NotoNaskh-Regular.ttf</file>
-            <file variant="elegant">NotoNaskh-Bold.ttf</file>
+            <file variant="elegant">NotoNaskhArabic-Regular.ttf</file>
+            <file variant="elegant">NotoNaskhArabic-Bold.ttf</file>
         </fileset>
     </family>
     <family>
         <fileset>
-            <file variant="compact">NotoNaskhUI-Regular.ttf</file>
-            <file variant="compact">NotoNaskhUI-Bold.ttf</file>
+            <file variant="compact">NotoNaskhArabicUI-Regular.ttf</file>
+            <file variant="compact">NotoNaskhArabicUI-Bold.ttf</file>
         </fileset>
     </family>
     <family>
