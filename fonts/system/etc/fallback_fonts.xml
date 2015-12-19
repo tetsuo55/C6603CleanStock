@@ -254,7 +254,7 @@
         <fileset>
             <file>NotoSansBamum-Regular.ttf</file>
         </fileset>
-    </family>	
+    </family>
     <family>
         <fileset>
             <file>NotoSansBatak-Regular.ttf</file>
@@ -369,7 +369,7 @@
         <fileset>
             <file>NotoSansSyriacEstrangela-Regular.ttf</file>
         </fileset>
-    </family
+    </family>
     <family>
         <fileset>
             <file>NotoSansTagbanwa-Regular.ttf</file>
@@ -443,11 +443,6 @@
     <family>
         <fileset>
             <file>DroidSansFallback.ttf</file>
-        </fileset>
-    </family>
-    <family>
-        <fileset>
-            <file lang="ja">SomcUDGothic-Regular.ttf</file>
         </fileset>
     </family>
     <family>
