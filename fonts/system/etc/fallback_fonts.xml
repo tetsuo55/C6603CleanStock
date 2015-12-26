@@ -35,6 +35,11 @@
 <familyset>
     <family>
         <fileset>
+            <file>NotoColorEmoji.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
             <file variant="elegant">NotoNaskhArabic-Regular.ttf</file>
             <file variant="elegant">NotoNaskhArabic-Bold.ttf</file>
         </fileset>
@@ -433,11 +438,6 @@
     <family>
         <fileset>
             <file>NanumGothic.ttf</file>
-        </fileset>
-    </family>
-    <family>
-        <fileset>
-            <file>NotoColorEmoji.ttf</file>
         </fileset>
     </family>
     <family>
